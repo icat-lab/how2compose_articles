@@ -1,3 +1,8 @@
+# 研究テーマ、Research Questionを決めるために
+## 行き詰まったら、とりあえずこちらを
+- [研究スタイルについてネットでいろいろ探す前に読む本: Amazon.co.jp: リストマニア](http://www.amazon.co.jp/lm/RA9E41OVANPOT/)
+
+
 # 論文執筆手法
 ## 論文の構成について
 - [IMRAD - Wikipedia](https://ja.wikipedia.org/wiki/IMRAD)
