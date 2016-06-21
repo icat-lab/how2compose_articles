@@ -11,6 +11,8 @@
 ## 調査設計
 - 田村正紀. (2006). 『リサーチ・デザイン 経営知識創造の基本技術』 白桃書房.
   - [Amazon.co.jp](http://www.amazon.co.jp/exec/obidos/ASIN/4561264574/)
+- G.キング , R.O.コヘイン, S.ヴァーバ (真渕勝 訳) 『社会科学のリサーチ・デザイン―定性的研究における科学的推論』 勁草書房, 2004.
+  - [Amazon.co.jp](http://www.amazon.co.jp/dp/4326301503/)
 
 ### ケーススタディ
 - Yin, R. K. (2003). __Case Study Research (Applied Social Research Methods): 5th edition,__ Sage communications.
