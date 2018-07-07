@@ -6,6 +6,8 @@
 ## 論文とは何か。RQの建て方
 - 伊丹敬之. (2001). 『創造的論文の書き方』有斐閣.
   - [Amazon.co.jp](http://www.amazon.co.jp/exec/obidos/ASIN/4641076499/)
+- 安宅和人.『イシューからはじめよ ― 知的生産の「シンプルな本質」』 英治出版.
+  - [Amazon.co.jp](https://www.amazon.co.jp/dp/B00MTL340G)
 
 
 ## 調査設計
