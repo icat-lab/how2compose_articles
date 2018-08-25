@@ -3,6 +3,9 @@
 - 戸田山 和久. (2012). 『新版 論文の教室―レポートから卒論まで』 NHKブックス(No.1194), NHK出版.
   - [Amazon.co.jp](http://www.amazon.co.jp/dp/4140911948/)
 
+- 山崎 康司. (2011). 『入門 考える技術・書く技術――日本人のロジカルシンキング実践法』 ダイヤモンド社.
+  - [Amazon.co.jp](https://www.amazon.co.jp//dp/4478014582/)
+
 ## 論文とは何か。RQの建て方
 - 伊丹敬之. (2001). 『創造的論文の書き方』有斐閣.
   - [Amazon.co.jp](http://www.amazon.co.jp/exec/obidos/ASIN/4641076499/)
