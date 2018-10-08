@@ -23,3 +23,6 @@
 - Yin, R. K. (2003). __Case Study Research (Applied Social Research Methods): 5th edition,__ Sage communications.
   - [Amazon.co.jp](https://www.amazon.co.jp/dp/1452242569/) 
   - 邦訳(第2版) できれば平易な英語なので原典を読んで欲しい。 [Amazon.co.jp](https://www.amazon.co.jp/dp/4805109777/)
+
+## 論文執筆に関する基本的な知識
+- [Master of Writing by 立教大学 大学教育開発・支援センター](https://www.rikkyo.ac.jp/about/activities/fd/qo9edr0000005dbr-att/MasterofWriting.pdf)
