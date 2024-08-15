@@ -26,3 +26,4 @@
 
 ## 論文執筆に関する基本的な知識
 - [Master of Writing by 立教大学 大学教育開発・支援センター](https://www.rikkyo.ac.jp/about/activities/fd/qo9edr0000005dbr-att/MasterofWriting.pdf)
+- [論文を書くためのtips集　（学部上級-修士向け） 神戸大学大学院経済学研究科講師　山﨑潤一](https://j-yamasaki.notion.site/tips-d6a6f6c46d6c4c2ea9368e9b0c093beb)
