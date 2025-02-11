@@ -1,7 +1,7 @@
 # 研究テーマ、Research Questionを決めるために
 ## 行き詰まったら、とりあえずこちらを
 - [研究スタイルについてネットでいろいろ探す前に読む本: Amazon.co.jp: リストマニア](http://www.amazon.co.jp/lm/RA9E41OVANPOT/)
-
+- [勉強から研究へ](https://member.ipmu.jp/yuji.tachikawa/misc/from-benkyo-to-kenkyu.html)
 
 # 論文執筆手法
 ## 論文の構成について
