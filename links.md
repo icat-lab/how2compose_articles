@@ -1,5 +1,6 @@
 # 研究テーマ、Research Questionを決めるために
 ## 行き詰まったら、とりあえずこちらを
+- [論文を書くためのtips集　（学部上級\-修士向け）](https://j-yamasaki.notion.site/tips-d6a6f6c46d6c4c2ea9368e9b0c093beb)
 - [研究スタイルについてネットでいろいろ探す前に読む本: Amazon.co.jp: リストマニア](http://www.amazon.co.jp/lm/RA9E41OVANPOT/)
 - [勉強から研究へ](https://member.ipmu.jp/yuji.tachikawa/misc/from-benkyo-to-kenkyu.html)
 
